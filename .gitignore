@@ -96,3 +96,6 @@ Desktop.ini
 *.log
 *.bak
 *.swp
+
+# CMake user-specific presets
+CMakeUserPresets.json
